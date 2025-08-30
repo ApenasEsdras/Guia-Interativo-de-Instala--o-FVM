@@ -1,1 +1,1 @@
-ums breve orientação de como utilizar o FVM
+uma breve orientação de como instalar e utilizar o FVM
